@@ -1,2 +1,2 @@
 # HTTP
-HTTP
+> HyperText Transfer Protocol
