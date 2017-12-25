@@ -1,0 +1,23 @@
+## 与HTTP关系密切的协议
+> 在TCP/IP协议族中与HTTP密不可分的3个协议
+> + IP
+> + TCP
+> + DNS
+
+### 负责传输的IP协议
+    按层次分，IP(Internet Protocol)网际协议位于网络层。几乎所有使用网络的系统都会用到IP协议。
+    IP协议的作用是把各种数据包传送给对方。
+    
+    要保证传送至目的地，两个重要条件
+    - IP地址
+    - MAC地址(Media Access Control Address)
+    
+    使用ARP协议凭借MAC地址进行通信。
+    ARP（Address Resolution Protocol）
+    是一种用以解析地址的协议，根据通信方的IP地址就可以反查出对应的MAC地址。
+   
+    
+
+### 确保可靠性的TCP协议
+
+### 负责域名解析的DNS服务
