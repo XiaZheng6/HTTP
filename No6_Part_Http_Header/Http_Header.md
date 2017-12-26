@@ -112,3 +112,46 @@
 ---
 ### 6.4.19 User-Agent
 ---
+## 6.5 响应首部字段
+### 6.5.1 Accept-Ranges
+----
+### 6.5.2 Age
+----
+### 6.5.3 ETag
+#### 强ETag
+#### 弱ETag
+----
+### 6.5.4 Location
+----
+### 6.5.5 Proxy-Authenticate
+----
+### 6.5.6 Retry-After
+----
+### 6.5.7 Server
+----
+### 6.5.8 Vary
+----
+### 6.5.9 WWW-Authenticate
+----
+## 6.6 实体首部字段
+### 6.6.1 Allow
+    405
+----
+### 6.6.2 Content-Encoding
+----
+### 6.6.3 Content-Language
+----
+### 6.6.4 Content-Location
+----
+### 6.6.5 Content-MD5
+----
+### 6.6.6 Content-Range
+----
+### 6.6.7 Content-Type
+----
+### 6.6.8 Content-Length
+----
+### 6.6.9 Expires
+----
+### 6.6.10 Last-Modified
+----
