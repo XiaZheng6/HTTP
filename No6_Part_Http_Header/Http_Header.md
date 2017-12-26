@@ -22,8 +22,10 @@
 #### 请求首部字段
 #### 响应首部字段
 #### 实体首部字段
+----
 ## 6.3 HTTP/1.1 通用首部字段
 ### 6.3.1 Cache-Control
+
 #### public
 #### private
 #### no-cache
@@ -37,4 +39,76 @@
 #### proxy-revalidate
 #### no-transform
 #### cache-extension token
+----
 ### 6.3.2 Connection
+#### 控制不再转发给代理的首部字段
+#### 管理持久连接
+----
+### 6.3.3 Date
+----
+### 6.3.4 Pragma
+----
+### 6.3.5 Trailer
+----
+### 6.3.6 Transfer-Encoding
+----
+### 6.3.7 Upgrade
+---
+### 6.3.8 Via
+---
+### 6.3.9 Warning
+---
+
+## 6.4 请求首部字段
+### 6.4.1 Accept
+#### 文本文件
+#### 图片文件
+#### 视频文件
+#### 应用程序使用的二进制文件
+---
+### 6.4.2 Accept-Charset
+---
+### 6.4.3 Accept-Encoding
+#### gzip
+#### compress
+#### deflate
+#### identity
+---
+### 6.4.4 Accept-Language
+---
+### 6.4.5 Authorization
+    401
+---
+### 6.4.6 Expect
+    417
+---
+### 6.4.7 From
+---
+### 6.4.8 Host
+---
+### 6.4.9 If-Match
+    412
+---
+### 6.4.10 If-Modified-Since
+    304
+---
+### 6.4.11 If-None-Match
+---
+### 6.4.12 If-Range
+    412
+---
+### 6.4.13 If-Unmodified-Since
+    412
+---
+### 6.4.14 Max-Forwards
+---
+### 6.4.15 Proxy-Authorization
+---
+### 6.4.16 Range
+---
+### 6.4.17 Referer
+---
+### 6.4.18 TE
+---
+### 6.4.19 User-Agent
+---
