@@ -155,3 +155,23 @@
 ----
 ### 6.6.10 Last-Modified
 ----
+## 6.7 为Cookie服务的首部字段
+> Cookie的规格标准文档：
+> 由网景公司颁布的规格标准    
+> RFC2109    
+> RFC2965    
+> RFC6265    
+### 6.7.1 Set-Cookie
+#### expires属性
+#### path属性
+#### domain属性
+#### secure属性
+#### HttpOnly属性
+### 6.7.2 Cookie
+----
+## 6.8 其他首部字段
+### 6.8.1 X-Frame-Options
+### 6.8.2 X-Xss-Protection
+### 6.8.3 DNT
+### 6.8.4 P3P
+----
