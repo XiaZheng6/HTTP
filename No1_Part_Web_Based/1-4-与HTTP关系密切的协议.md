@@ -1,5 +1,5 @@
 ## 与 HTTP 关系密切的协议
-> 在TCP/IP协议族中与HTTP密不可分的3个协议
+> 在 TCP/IP 协议族中与HTTP密不可分的3个协议
 > + IP
 > + TCP
 > + DNS
