@@ -1,11 +1,11 @@
 # TCP/IP
-> TCP/IP是互联网相关的各类协议族的总称
+> TCP/IP 是互联网相关的各类协议族的总称
 
 ## 协议族各层如下：
 ### 应用层
 > 应用层决定了向用户提供应用服务时通信的活动。  
 
-TCP/IP协议族内预存了各类通用的应用服务：
+TCP/IP 协议族内预存了各类通用的应用服务：
 * FTP(File Transfer Protocol,文件传输协议)
 * DNS(Domain Name System,域名系统)
 * HTTP
