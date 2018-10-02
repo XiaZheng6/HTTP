@@ -1,4 +1,4 @@
-## HTTP报文内的HTTP信息
+## HTTP 报文内的HTTP信息
 ### HTTP报文
 > 用于HTTP协议交互的信息被称为HTTP报文    
 > 请求端(客户端)的HTTP报文叫做请求报文    
