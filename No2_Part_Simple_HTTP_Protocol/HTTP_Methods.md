@@ -1,4 +1,4 @@
-## HTTP方法
+## HTTP 方法
 ### GET
 > 获取资源
 ### POST
