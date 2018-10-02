@@ -1,6 +1,6 @@
-## URI和URL
-> URI(Uniform Resource Identifier，统一资源标识符)    
-> URL(Uniform Resource Locator，统一资源定位符)
+## URI 和 URL
+> URI (Uniform Resource Identifier，统一资源标识符)    
+> URL (Uniform Resource Locator，统一资源定位符)
 ### 统一资源标识符
 #### Uniform
 > 规定统一的格式可方便处理多种不同类型的资源，而不用根据上下文环境来识别资源指定的方式    
