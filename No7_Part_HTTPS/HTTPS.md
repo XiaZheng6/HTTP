@@ -11,7 +11,7 @@
 添加了加密及认证机制的 HTTP 称为 HTTPS (HTTP Secure)    
 > 证书可证明服务器或客户端的身份    
 
-所谓 HTTPS，其实就是身披 SSL 协议这层外壳的HTTP
+所谓 HTTPS，其实就是身披 SSL 协议这层外壳的 HTTP
 > 在采用SSL后，HTTP就拥有了HTTPS的加密、证书和完整性保护这些功能    
 
 ### 相互交换密钥的公开密钥加密技术
