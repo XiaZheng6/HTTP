@@ -8,7 +8,7 @@
 > HTTP + 加密 + 认证 + 完整性保护 = HTTPS
 ### 基本概念
 
-添加了加密及认证机制的 HTTP 称为HTTPS(HTTP Secure)    
+添加了加密及认证机制的 HTTP 称为 HTTPS(HTTP Secure)    
 > 证书可证明服务器或客户端的身份    
 
 所谓HTTPS，其实就是身披SSL协议这层外壳的HTTP
